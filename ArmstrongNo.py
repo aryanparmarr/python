@@ -9,4 +9,4 @@ def checkArmstrong(n):
     
     
     print(sum_of_powers == n)
-checkArmstrong(345)
+checkArmstrong(341)
